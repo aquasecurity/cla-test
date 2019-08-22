@@ -1,2 +1,2 @@
 # cla-test
-Testing CLA verification
+Testing CLA verification and whitelisting
